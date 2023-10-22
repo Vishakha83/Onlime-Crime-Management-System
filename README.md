@@ -3,7 +3,7 @@
 
 Description :
   It is a simple website that manages online crime management system.
-  Digital Crime Management System can record onlineComplaints.
+  Digital Crime Management System can record online complaints.
   The complaint will be filled with respective police station.
   Only Admin can access the all the details of jailors.
   Server Site Scripting done using PHP.
